@@ -7,7 +7,7 @@
 
 - 🌱 Learning and growing in both **Frontend and Backend Development**
 
-- 💬 Ask me about **react and node**
+- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **bamideleprecious100@gmail.com**
 
