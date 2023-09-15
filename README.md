@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prechy123&label=Profile%20views&color=0e75b6&style=flat" alt="prechy123" /> </p>
 
-- 🌱 Learning and growing in both **Frontend and Backend Development**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **MERN stack**
 
