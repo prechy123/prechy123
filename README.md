@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **anything MERN**
 
 - 📫 How to reach me **bamideleprecious100@gmail.com**
 
