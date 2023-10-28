@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **DSA with Python**
+- 🌱 I’m currently learning **DSA with Python.**
 
 - 💬 Ask me about **anything MERN**
 
