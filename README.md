@@ -4,9 +4,9 @@
 
 
 
-- 🌱 I’m currently learning **DSA with Python.**
+- 🌱 I’m currently learning **DSA with Python**
 
-- 💬 Ask me about **anything MERN.**
+- 💬 Ask me about **anything MERN**
 
 - 📫 How to reach me **bamideleprecious100@gmail.com**
 
