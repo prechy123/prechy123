@@ -46,8 +46,19 @@
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prechy123&show_icons=true&theme=dracula" alt="prechy123" /></p> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prechy123&show_icons=true&locale=en&layout=compact&theme=dracula" alt="prechy123" /></p>
+###
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=prechy123&hide_title=false&hide_rank=false&show_icons=true&theme=react&locale=en&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=prechy123&theme=react&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prechy123&theme=react&hide_border=true&include_all_commits=false&count_private=truee&layout=compact)
+
+
+###
+
 
 
