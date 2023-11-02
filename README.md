@@ -46,10 +46,8 @@
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=prechy123&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prechy123&layout=compact" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prechy123&show_icons=true&theme=dracula" alt="prechy123" /></p> 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prechy123&show_icons=true&locale=en&layout=compact" alt="prechy123" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prechy123&show_icons=true&locale=en&layout=compact&theme=dracula" alt="prechy123" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prechy123&show_icons=true&locale=en" alt="prechy123" /></p> -->
 
