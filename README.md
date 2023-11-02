@@ -48,6 +48,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=prechy123&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prechy123&layout=compact" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prechy123&show_icons=true&locale=en&layout=compact" alt="prechy123" /></p> -->
 
