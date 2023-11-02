@@ -31,6 +31,7 @@
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img alt="mui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
 </p>
 
 <h3 align="left">Others:</h3>
@@ -45,10 +46,10 @@
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=prechy123&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prechy123&layout=compact" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prechy123&show_icons=true&locale=en&layout=compact" alt="prechy123" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prechy123&show_icons=true&locale=en&layout=compact" alt="prechy123" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prechy123&show_icons=true&locale=en" alt="prechy123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prechy123&" alt="prechy123" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prechy123&show_icons=true&locale=en" alt="prechy123" /></p> -->
 
