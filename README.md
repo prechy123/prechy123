@@ -4,7 +4,7 @@
 
 
 
-- 🌱 Currently learning **DSA using python**
+- 🌱 Currently learning **...**
 
 - 📫 Reach me at **bamideleprecious100@gmail.com**
 
