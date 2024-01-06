@@ -4,7 +4,7 @@
 
 
 
-- 🌱 Currently learning **...**
+- 🌱 Currently learning **..mySql..**
 
 - 📫 Reach me at **bamideleprecious100@gmail.com**
 
