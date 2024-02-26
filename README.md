@@ -37,13 +37,14 @@
 
 ###
 
-# 📊 GitHub Stats:
+<details>
+  <summary>Github Stats</summary>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prechy123&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="precious" </p>
 
-![](https://github-readme-stats.vercel.app/api?username=prechy123&hide_title=false&hide_rank=false&show_icons=true&theme=react&locale=en&hide_border=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prechy123&show_icons=true&locale=en&theme=midnight-purple" alt="precious" /></p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=prechy123&theme=react&hide_border=true)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prechy123&theme=react&hide_border=true&include_all_commits=false&count_private=truee&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prechy123&theme=midnight-purple" alt="precious" /></p>
+</details>
 
 
 ###
