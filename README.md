@@ -7,6 +7,7 @@
 - 🌱 Currently learning **....**
 
 - 📫 Reach me at **bamideleprecious100@gmail.com**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - ⚡ Fun fact **4A 41 56 41 53 43 52 49 50 54 20 49 53 4E 4F 54 20 53 49 4D 49 4C 41 52 20 54 4F 20 4A 41 56 41**
 
