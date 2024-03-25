@@ -4,7 +4,7 @@
 
 
 
-- 🌱 Currently learning **...**
+- 🌱 Currently learning **....**
 
 - 📫 Reach me at **bamideleprecious100@gmail.com**
 - 👯 I’m looking to collaborate on **Open Source Projects**
