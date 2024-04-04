@@ -9,7 +9,7 @@
 - 📫 Reach me at **bamideleprecious100@gmail.com**
 - 👯 I’m looking to collaborate on **Open Source Projects and Hackathon**
 
-- ⚡ Fun fact **4A 41 56 41 53 43 52 49 50 54 20 49 53 4E 4F 54 20 53 49 4D 49 4C 41 52 20 54 4F 20 4A 41 56 41**
+- ⚡ Fun fact **01001001 00100000 01101100 01101111 01110110 01100101 00100000 01001110 01100101 01111000 01110100 01001010 01110011**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
