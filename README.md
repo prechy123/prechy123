@@ -41,8 +41,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prechy123&theme=midnight-purple" alt="precious" /></p>
 
 
-<img src="https://profile-counter.glitch.me/prechy123/count.svg" alt="Prechy's :: Visitor's Count" />
-
 
 
 
