@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects and Hackathon**
 
 - ⚡ Fun fact **01001001 00100000 01101100 01101111 01110110 01100101 00100000 01001110 01100101 01111000 01110100 01001010 01110011**
+View my Project: https://portfolio-henna-seven-84.vercel.app/projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
