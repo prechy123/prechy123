@@ -4,7 +4,7 @@
 
 
 
-- 🌱 Currently learning **nextJS with typescript**
+- 🌱 Currently learning **VueJS**
 
 - 📫 Reach me at **bamideleprecious100@gmail.com**
 - 👯 I’m looking to collaborate on **Open Source Projects and Hackathon**
