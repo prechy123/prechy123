@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **01001001 00100000 01101100 01101111 01110110 01100101 00100000 01001110 01100101 01111000 01110100 01001010 01110011**
 
--   View my Projects on my Portfolio website: <a href="https://portfolio-henna-seven-84.vercel.app/projects">My Portfolio</a>
+-   View my Projects on my Portfolio website: <a href="https://portfolio-henna-seven-84.vercel.app/projects">My Portfolio</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
