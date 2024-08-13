@@ -4,7 +4,7 @@
 
 
 
-- 🌱 Currently learning **AWS**
+- 🌱 Currently learning **React Native**
 
 - 📫 Reach me at **bamideleprecious100@gmail.com**
 - 👯 I’m looking to collaborate on **Open Source Projects and Hackathon**
