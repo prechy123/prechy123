@@ -4,7 +4,7 @@
 
 
 
-- 🌱 Currently using **React Native**
+- 🌱 Currently using **React Native and NextJS**
 
 - 📫 Reach me at **bamideleprecious100@gmail.com**
 - 👯 I’m looking to collaborate on **Open Source Projects and Hackathon**
