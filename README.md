@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Bamidele Precious</h1>
 <h3 align="center">MERN developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> -->
 
 
 
@@ -8,8 +8,6 @@
 
 - 📫 Reach me at **bamideleprecious100@gmail.com**
 - 👯 I’m looking to collaborate on **Open Source Projects and Hackathon**
-
-- ⚡ Fun fact **01001001 00100000 01101100 01101111 01110110 01100101 00100000 01001110 01100101 01111000 01110100 01001010 01110011**
 
 -   View my Projects on my Portfolio website: <a href="https://www.bamidele.site/projects">My Portfolio</a>
 
