@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Bamidele Precious</h1>
+<h1 align="center">Hello 👋, I'm Bamidele Ayomide Precious</h1>
 <h3 align="center">MERN developer</h3>
 
 - 🌱 Currently using **React Native and NextJS**
