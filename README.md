@@ -4,7 +4,7 @@
 - 🌱 Currently using **PHP and React Native**
 
 - 📫 Reach me at **bamideleprecious100@gmail.com**
-- 👯 I’m looking to collaborate on **Open Source Projects and Hackathon**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 -   View my Projects on my Portfolio website: <a href="https://www.bamidele.site/projects">My Portfolio</a>
 
