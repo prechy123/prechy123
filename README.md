@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Bamidele Ayomide Precious</h1>
 <h3 align="center">MERN developer</h3>
 
-- 🌱 Currently using **PHP and React Native**
+- 🌱 Currently using **PHP and Solidity**
 
 - 📫 Reach me at **bamideleprecious100@gmail.com**
 - 👯 I’m looking to collaborate on **Open Source Projects**
