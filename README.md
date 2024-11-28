@@ -1,10 +1,9 @@
 <h1 align="center">Hello 👋, I'm Bamidele Ayomide Precious</h1>
-<h3 align="center">MERN developer</h3>
+<h3 align="center">Full-Stack developer</h3>
 
 - 🌱 Currently using **Solidity**
 
 - 📫 Reach me at **bamideleprecious100@gmail.com**
-- 👯 I’m looking to collaborate on **Open Source Projects**
 
 -   View my Projects on my Portfolio website: <a href="https://www.bamidele.site/projects">My Portfolio</a>
 
