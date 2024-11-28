@@ -29,6 +29,8 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img alt="mui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
+<img alt="aws" src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img alt="Solidity" src="https://img.shields.io/badge/Solidity-purple?style=for-the-badge&logo=Solidity&logoColor=white" />
 </p>
 
 
