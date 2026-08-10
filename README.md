@@ -1,9 +1,7 @@
-<h1 align="center">Hello 👋, I'm Bamidele Ayomide Precious</h1>
+<h1 align="center">Hello 👋</h1>
 <h3 align="center">Full-Stack developer</h3>
 
-- 📫 Reach me at **bamideleayomideprecious@yahoo.com**
 
--   View my Projects on my Portfolio website: <a href="https://www.bamidele.site/projects">My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
